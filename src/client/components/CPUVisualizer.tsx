@@ -57,7 +57,7 @@ export function CPUVisualizer({ cpu }: CPUVisualizerProps) {
 		 * 0x56
 		 * 0x78
 		 * basically the first operand is the LSB and the last operand is the MSB
-		 * the full instruction is JMP 0x 78 56 34 12
+		 * the full instruction is JMP 0x78563412
 		 */
 		const program = [
 			0xb8, // MOV EAX, 0x80371342
