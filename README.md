@@ -1,4 +1,4 @@
-#Ro-OS
+# Ro-OS
 i think of turning this into an operating system rather than a modelled cpu
 
 ## Contribution
